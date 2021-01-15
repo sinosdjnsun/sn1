@@ -1,2 +1,1 @@
-# sn1
-lesson1
+first repository on github:coffee:,
